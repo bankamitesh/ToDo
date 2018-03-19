@@ -4,9 +4,9 @@
  * Database config variables
  */
 define("HOST", "localhost");
-define("USER", "celespy_task");
-define("PASS", "celespy_task");
-define("DB", "celespy_task");
+define("USER", "root");
+define("PASS", "root");
+define("DB", "task");
 
  
  //Connecting to database
